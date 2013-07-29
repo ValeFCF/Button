@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Botones</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="texto">Da click en el boton!</string>
+    <string name="TextoBoton">Esto es un Boton</string>
+
+</resources>
